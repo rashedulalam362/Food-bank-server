@@ -1,10 +1,10 @@
 # FoodBasket Full Stack Server
 
-This is an online e-commerce website project. [FoodBasket](https://foodbasket-com.web.app/) offers different types of products for example fruit, vegetables, snacks, soft drinks, etc. admin or user can add new products, delete products at any time or many more.
+This is an online e-commerce website project. [FoodBank](https://foodbasket-com.web.app/) offers different types of products for example fruit, vegetables, snacks, soft drinks, etc. admin or user can add new products, delete products at any time or many more.
 
 ## Live Website Link
 
-[FoodBasket Client Side](https://foodbasket-com.web.app/) and [FoodBasket Server Side](https://foodbasket1.herokuapp.com)
+[FoodBank Client Side](https://foodbasket-com.web.app/) and [FoodBasket Server Side](https://foodbasket1.herokuapp.com)
 
 ## Technology Used or Plugin
 
