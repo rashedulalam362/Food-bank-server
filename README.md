@@ -4,7 +4,7 @@ This is an online e-commerce website project. [FoodBank](https://food-bank-a7d75
 
 ## Live Website Link
 
-[FoodBank Client Side](https://foodbasket-com.web.app/) and [FoodBasket Server Side](https://foodbasket1.herokuapp.com)
+[FoodBank Client Side](https://food-bank-a7d75.web.app/) and [FoodBasket Server Side](https://foodbasket1.herokuapp.com)
 
 ## Technology Used or Plugin
 
