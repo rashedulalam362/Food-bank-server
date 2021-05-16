@@ -1,6 +1,6 @@
 # FoodBank Full Stack Server
 
-This is an online e-commerce website project. [FoodBank](https://foodbasket-com.web.app/) offers different types of products for example fruit, vegetables, snacks, soft drinks, etc. admin or user can add new products, delete products at any time or many more.
+This is an online e-commerce website project. [FoodBank](https://food-bank-a7d75.web.app/) offers different types of products for example fruit, vegetables, snacks, soft drinks, etc. admin or user can add new products, delete products at any time or many more.
 
 ## Live Website Link
 
