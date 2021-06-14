@@ -15,14 +15,6 @@ This is an online e-commerce website project. [FoodBank](https://food-bank-a7d75
 5. Dot Env
 6. Nodemon
 
-## API's I Have Made
-
-- https://foodbasket1.herokuapp.com/products `(For Getting Products From Database)`
-- https://foodbasket1.herokuapp.com/addProduct `(To Add New Product To Database)`
-- https://foodbasket1.herokuapp.com/products/:id `(Get Product From Database Using Unique ID)`
-- https://foodbasket1.herokuapp.com/deleteProduct/ `(To Find Product Using Unique ID and Delete From Database)`
-- https://foodbasket1.herokuapp.com/confirmOrder `(For Confirm Order & Save Order Details To Database)`
-- https://foodbasket1.herokuapp.com/orders?useremail=example@example.com `(Load Products Base On User Email Address)`
 
 ## Installation Guide
 ### **SETPS**
